@@ -1,0 +1,2 @@
+nt age;
+    string name;
